@@ -1,0 +1,20 @@
+server:
+  port: 9091
+
+spring:
+  thymeleaf:
+    cache: false
+  datasource:
+    url: jdbc:postgresql://localhost:5432/web-site
+    username: web-site
+    password: web-site
+    driver-class-name: org.postgresql.Driver
+  jpa:
+    database-platform: org.hibernate.dialect.PostgresPlusDialect
+    show-sql: true
+    hibernate:
+      ddl-auto: update
+
+auth:
+  jwt:
+    secret: a4d22226fc897e260592e29f5b4838e78b4c8f81b45651ca53960fbfd00d3e76

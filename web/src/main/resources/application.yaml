@@ -14,3 +14,8 @@ spring:
     show-sql: true
     hibernate:
       ddl-auto: update
+
+auth:
+  enabled: true
+  jwt:
+    secret: a4d22226fc897e260592e29f5b4838e78b4c8f81b45651ca53960fbfd00d3e76
