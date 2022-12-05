@@ -1,7 +1,7 @@
-package ru.se4oev.website.repository;
+package ru.se4oev.web.repository;
 
 import org.springframework.data.repository.CrudRepository;
-import ru.se4oev.website.entity.BookEntity;
+import ru.se4oev.web.entity.BookEntity;
 
 import java.util.List;
 

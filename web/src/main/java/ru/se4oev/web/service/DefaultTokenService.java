@@ -1,4 +1,4 @@
-package ru.se4oev.website.service;
+package ru.se4oev.web.service;
 
 import com.auth0.jwt.JWT;
 import com.auth0.jwt.JWTVerifier;

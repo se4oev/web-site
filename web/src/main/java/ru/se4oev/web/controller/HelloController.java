@@ -1,4 +1,4 @@
-package ru.se4oev.website.controller;
+package ru.se4oev.web.controller;
 
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestParam;

@@ -1,4 +1,4 @@
-package ru.se4oev.website;
+package ru.se4oev.web;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

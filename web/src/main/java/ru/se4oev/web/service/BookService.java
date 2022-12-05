@@ -1,6 +1,6 @@
-package ru.se4oev.website.service;
+package ru.se4oev.web.service;
 
-import ru.se4oev.website.data.Book;
+import ru.se4oev.web.data.Book;
 
 import java.util.List;
 

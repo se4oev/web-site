@@ -1,4 +1,4 @@
-package ru.se4oev.website.data;
+package ru.se4oev.web.data;
 
 import lombok.Value;
 

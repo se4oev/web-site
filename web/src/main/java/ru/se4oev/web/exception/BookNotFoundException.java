@@ -1,4 +1,4 @@
-package ru.se4oev.website.exception;
+package ru.se4oev.web.exception;
 
 /**
  * Created by karpenko on 02.12.2022.

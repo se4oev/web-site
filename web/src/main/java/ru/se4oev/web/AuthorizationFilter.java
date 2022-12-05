@@ -1,4 +1,4 @@
-package ru.se4oev.website;
+package ru.se4oev.web;
 
 import jakarta.servlet.FilterChain;
 import jakarta.servlet.ServletException;
@@ -9,7 +9,7 @@ import org.springframework.beans.factory.annotation.Value;
 import org.springframework.http.HttpHeaders;
 import org.springframework.stereotype.Component;
 import org.springframework.web.filter.OncePerRequestFilter;
-import ru.se4oev.website.service.TokenService;
+import ru.se4oev.web.service.TokenService;
 
 import java.io.IOException;
 

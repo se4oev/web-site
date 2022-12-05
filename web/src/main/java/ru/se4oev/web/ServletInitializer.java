@@ -1,4 +1,4 @@
-package ru.se4oev.website;
+package ru.se4oev.web;
 
 import org.springframework.boot.builder.SpringApplicationBuilder;
 import org.springframework.boot.web.servlet.support.SpringBootServletInitializer;

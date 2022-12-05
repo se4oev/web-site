@@ -1,11 +1,11 @@
-package ru.se4oev.website.controller;
+package ru.se4oev.web.controller;
 
 import lombok.RequiredArgsConstructor;
 import org.springframework.web.bind.annotation.*;
-import ru.se4oev.website.data.Book;
-import ru.se4oev.website.data.BookRequest;
-import ru.se4oev.website.mapper.BookRequestMapper;
-import ru.se4oev.website.service.BookService;
+import ru.se4oev.web.data.Book;
+import ru.se4oev.web.data.BookRequest;
+import ru.se4oev.web.mapper.BookRequestMapper;
+import ru.se4oev.web.service.BookService;
 
 import java.util.List;
 

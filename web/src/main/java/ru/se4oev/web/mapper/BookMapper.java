@@ -1,8 +1,8 @@
-package ru.se4oev.website.mapper;
+package ru.se4oev.web.mapper;
 
 import org.springframework.stereotype.Component;
-import ru.se4oev.website.data.Book;
-import ru.se4oev.website.entity.BookEntity;
+import ru.se4oev.web.data.Book;
+import ru.se4oev.web.entity.BookEntity;
 
 import java.util.ArrayList;
 import java.util.List;

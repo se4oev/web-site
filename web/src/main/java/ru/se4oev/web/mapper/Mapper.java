@@ -1,4 +1,4 @@
-package ru.se4oev.website.mapper;
+package ru.se4oev.web.mapper;
 
 import java.util.List;
 

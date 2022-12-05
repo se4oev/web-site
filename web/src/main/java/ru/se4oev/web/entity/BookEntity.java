@@ -1,4 +1,4 @@
-package ru.se4oev.website.entity;
+package ru.se4oev.web.entity;
 
 import jakarta.persistence.*;
 import lombok.AllArgsConstructor;

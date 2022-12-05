@@ -1,12 +1,12 @@
-package ru.se4oev.website.service;
+package ru.se4oev.web.service;
 
 import lombok.RequiredArgsConstructor;
 import org.springframework.stereotype.Service;
-import ru.se4oev.website.data.Book;
-import ru.se4oev.website.entity.BookEntity;
-import ru.se4oev.website.exception.BookNotFoundException;
-import ru.se4oev.website.mapper.BookMapper;
-import ru.se4oev.website.repository.BookRepository;
+import ru.se4oev.web.data.Book;
+import ru.se4oev.web.entity.BookEntity;
+import ru.se4oev.web.exception.BookNotFoundException;
+import ru.se4oev.web.mapper.BookMapper;
+import ru.se4oev.web.repository.BookRepository;
 
 import java.util.List;
 
